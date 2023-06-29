@@ -7,11 +7,11 @@
 
     <servlet>
         <servlet-name>washington</servlet-name>
-        <servlet-class>ServletTimeMinsk</servlet-class>
+        <servlet-class>Washington</servlet-class>
     </servlet>
     <servlet>
         <servlet-name>beijing</servlet-name>
-        <servlet-class>ServletTimeMinsk</servlet-class>
+        <servlet-class>Beijing</servlet-class>
     </servlet>
 
     <servlet-mapping>
